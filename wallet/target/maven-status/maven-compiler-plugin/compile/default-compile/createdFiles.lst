@@ -1,0 +1,10 @@
+wallet\management\wallet\WalletApplication.class
+Mapper\MapStruct.class
+Entity\DTO\WalletDTO.class
+Entity\Wallet$WalletBuilder.class
+Entity\Wallet.class
+Entity\DTO\WalletDTO$WalletDTOBuilder.class
+Service\WalletServiceImpl\WalletServiceImpl.class
+Service\WalletService.class
+Repository\WalletRepository.class
+Controller\WalletController.class
