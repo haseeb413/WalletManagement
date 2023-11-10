@@ -1,0 +1,5 @@
+common\dtos\Constant\UserDto$UserDtoBuilder.class
+common\dtos\Constant\WalletDto.class
+common\dtos\DtosApplication.class
+common\dtos\Constant\WalletDto$WalletDtoBuilder.class
+common\dtos\Constant\UserDto.class
